@@ -33,7 +33,11 @@ The front face of petals and central part accommodates the LED components from t
   <img src="https://github.com/potblitd/FLOLED/blob/main/images/FLOLED-versions.JPG" width="600" />
 </p>
 
+## Assembly
 
+<p align="center">
+  <img src="https://github.com/potblitd/FLOLED/blob/main/images/FLOLED-assembly.png" width="600" />
+</p>
 
 
 
