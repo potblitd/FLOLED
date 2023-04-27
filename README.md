@@ -21,3 +21,22 @@ Now for the central part, that holds all the petals, I opted for a single RGB LE
 <p align="center">
   <img src="https://github.com/potblitd/FLOLED/blob/main/images/FLOLED-BASE_schematic-simple.png" width="500" />
 </p>
+
+## PCB Design
+
+The front face of petals and central part accommodates the LED components from the circuits while the down facing side contains the microcontroller and remaining passive components. To allow removal of the ATtiny chip for reprogramming and avoid ugly through hole solder pads, a DIP-8 socket is used. The petals have two ‘teeth’ pads that connect the power supply (VCC & GND) and gives a slight inclination to the petals through the elongated holes in the central part.
+
+<p align="center">
+  <img src="https://github.com/potblitd/FLOLED/blob/main/images/FLOLED-layout.png" width="500" />
+  <img src="https://github.com/potblitd/FLOLED/blob/main/images/FLOLED-versions.JPG" width="500" />
+</p>
+
+
+
+
+
+
+
+
+
+
