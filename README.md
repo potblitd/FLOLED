@@ -34,6 +34,14 @@ The front face of petals and central part accommodates the LED components from t
   <img src="images/FLOLED-versions.JPG" width="800" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/potblitd/FLOLED/tree/main/PCB/PETAL">Petal PCB design files</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/potblitd/FLOLED/tree/main/PCB/BASE">Base PCB design files</a>
+</p>
+
 ## Assembly
 
 <p align="center">
