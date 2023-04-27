@@ -46,6 +46,11 @@ Before programming the ATtiny chips with Arduino through the [USBasp](https://ww
 The *setLED()* function can light one LED at a time by adjusting the pins direction with DDRB and the two outputs pins states with PORTB. With this method, all kind of patterns and sequences can be realized. The ‘flower-on’ code below turns ON each LED individually for 1 millisecond, making the flower look fully illuminated to the low FPS human eye. In ‘flower-random’, the not-so-random Arduino function is used to turn on random LEDs.
 
 <p align="center">
+  [USBasp](https://www.fischl.de/usbasp/)
+</p>
+
+
+<p align="center">
   <img src="images/FLOLED-light.png" width="600" />
 </p>
 
