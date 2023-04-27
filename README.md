@@ -19,5 +19,5 @@ From its 8 pins, 2 are used for power supply and PB5 is the reset pin that I wou
 Now for the central part, that holds all the petals, I opted for a single RGB LED in the middle to keep the design neat and small.
 
 <p align="center">
-  <img src="https://github.com/potblitd/FLOLED/blob/main/images/FLOLED-BASE_schematic-simple.png" width="600" />
+  <img src="https://github.com/potblitd/FLOLED/blob/main/images/FLOLED-BASE_schematic-simple.png" width="500" />
 </p>
